@@ -1,10 +1,9 @@
 // -------------------------------------------------------
-// Assignment Assignment 1A
 // Written by: @jvlyndark
 // For COMP 248 Section EC – Fall 2019
 // --------------------------------------------------------
 
-public class comp248_Assignment1A {
+public class helloJava {
 
 	public static void main(String[] args) {
 		
