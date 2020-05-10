@@ -1,4 +1,4 @@
-# hello-world-with-Java
+# hello-java
 A first Hello World project featuring some Java
 
 Hello fellow humanoids!
